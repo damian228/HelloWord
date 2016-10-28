@@ -1,3 +1,3 @@
 # HelloWord
 
-costam tam cos
+to jest moje repozytorium postawione na probe
