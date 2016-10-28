@@ -1,2 +1,3 @@
 # HelloWord
-costamcostam
+zmiany wprowadzonew nowej
+galezi
