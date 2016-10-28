@@ -1,3 +1,3 @@
 # HelloWord
 
-to jest moje repozytorium postawione na probe
+jakis przykladowy opis
